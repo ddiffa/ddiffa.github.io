@@ -7,7 +7,7 @@ description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: 'https://lh6.googleusercontent.com/As5sZsE8gKJXiOP_Xo0LnsekIWv82Zlnh8OsCB7fI2M_uIU-VMU2cCxhrUSV7iDerj-HTbqYTo-SBA=w1366-h654'
 
 url: http://diffarent.github.io
@@ -41,7 +41,7 @@ authors:
     Diffa Dwi Desyawan:
         name: Diffa Dwi Desyawan
         bio: Physics, Reading, Teaching.
-        external-image: false
+        external-image: true
         picture: https://lh6.googleusercontent.com/As5sZsE8gKJXiOP_Xo0LnsekIWv82Zlnh8OsCB7fI2M_uIU-VMU2cCxhrUSV7iDerj-HTbqYTo-SBA=w1366-h654
       
 
