@@ -10,7 +10,7 @@ description: A blog about Physics and teaching science
 external-image: true
 picture: 'https://lh6.googleusercontent.com/As5sZsE8gKJXiOP_Xo0LnsekIWv82Zlnh8OsCB7fI2M_uIU-VMU2cCxhrUSV7iDerj-HTbqYTo-SBA=w1366-h654'
 
-url: http://diffarent.github.io
+#url: http://diffarent.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
