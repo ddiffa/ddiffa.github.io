@@ -8,7 +8,7 @@ description: A blog about Physics and teaching science
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: 'https://lh3.googleusercontent.com/x_cBaF1OKEjEbfDeko36jCUzlQAh0RRaP0iwQVJsBzy_2Lhq30X3pl_8id_jeZ34NvYaPmlmo0LPkA=w1366-h654'
+picture: 'https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/39441333_1920157478076308_3609569538661679104_n.jpg?_nc_cat=0&oh=b03b407056801ab82020c5153d99feba&oe=5BECFB72'
 
 url: http://diffarent.github.io
 # your url: http://USERNAME.github.io
@@ -42,7 +42,7 @@ authors:
         name: Diffa Dwi Desyawan
         bio: Physics, Reading, Teaching.
         external-image: true
-        picture: https://lh3.googleusercontent.com/x_cBaF1OKEjEbfDeko36jCUzlQAh0RRaP0iwQVJsBzy_2Lhq30X3pl_8id_jeZ34NvYaPmlmo0LPkA=w1366-h654
+        picture: https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/39441333_1920157478076308_3609569538661679104_n.jpg?_nc_cat=0&oh=b03b407056801ab82020c5153d99feba&oe=5BECFB72
 
 
 # do you want a larger site? change the option below
